@@ -1,15 +1,9 @@
-# Hello for all!
+# Hello to all!
 
-Java Engineer with 6+ years of hands-on experience in designing, developing, and maintaining applications in different domains with team leadership experience. 
+<h4 align="center">
+  <p> Java Engineer with 6+ years of hands-on experience in designing, developing, and maintaining applications in different domains with team leadership experience. </p> 
+</h4>
 
-## GitHub Stats
-
-<a href="https://github.com/ih0r-d/ih0r-d">
-  <img  src="https://github-readme-stats.vercel.app/api?username=ih0r-d&hide=contribs&show_icons=true" alt=""/>
-</a>
-<a href="https://github.com/ih0r-d/ih0r-d">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ih0r-d&layout=compact" alt=""/>
-</a>
 
 ## Skills
 * 
@@ -43,4 +37,15 @@ Java Engineer with 6+ years of hands-on experience in designing, developing, and
   ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/IDE-Fleet-informational?style=flat&logoColor=white&color=2bbc8a)
 
+## GitHub Stats
 
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=ih0r-d&show_icons=true" alt=""/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ih0r-d" />
+</p>
+
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ih0r-d&layout=compact" alt=""/>
+  <span/>
+  <img align="right" src="https://readme-jokes.vercel.app/api?theme=vue&hideBorder" alt="A Random Developer Joke"/>
+</p>
