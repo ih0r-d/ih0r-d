@@ -41,11 +41,10 @@
 
 <p align="left">
   <img  src="https://github-readme-stats.vercel.app/api?username=ih0r-d&show_icons=true" alt=""/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ih0r-d" />
+  <img align="right" src="https://readme-jokes.vercel.app/api?theme=vue&hideBorder" alt="A Random Developer Joke"/>
 </p>
 
 <p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ih0r-d&layout=compact" alt=""/>
-  <span/>
-  <img align="right" src="https://readme-jokes.vercel.app/api?theme=vue&hideBorder" alt="A Random Developer Joke"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ih0r-d" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ih0r-d&layout=compact" alt=""/>
 </p>
