@@ -21,6 +21,7 @@
   ![](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
   [![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)](https://fastapi.tiangolo.com/)
+  [![](https://img.shields.io/badge/Framework-Aiogram-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](https://github.com/aiogram/aiogram)
 
 *
   ![](https://img.shields.io/badge/Tools-GitHubActions-informational?style=flat&color=2bbc8a)
