@@ -1,9 +1,8 @@
 # Hello everybody!
 
 <h3 align="center">
-  <p> Experienced Java Engineer (6+ years) | Skilled in Design, Development, and Leadership </p>
+  <p> Experienced Java Engineer with near 7 years of expirience | Skilled in Design, Development, and Leadership </p>
 </h3>
-
 
 ## Skills
   ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
