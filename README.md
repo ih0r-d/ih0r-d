@@ -1,7 +1,8 @@
 # Hello everybody!
 
 <h3 align="center">
-  <p> Experienced Java Engineer with near 7 years of expirience | Skilled in Design, Development, and Leadership </p>
+  <p> Experienced Java Engineer with 7 years of experience </p>
+  <p> Skilled in Design, Development, and Leadership </p>
 </h3>
 
 ## Skills
