@@ -1,8 +1,7 @@
 ## 👋 About Me
 
 <div align="center">
-  <p>Engineer who loves tackling real-world challenges and learning.</p> 
-  <p>Java is my main thing, but I’m into Python, React/Angular, DevOps — whatever helps build great systems.</p>
+  <p> An Engineer who loves tackling real-world challenges and learning.</p> 
 </div>
 
 ## 🧠 Skills
