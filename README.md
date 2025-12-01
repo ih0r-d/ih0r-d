@@ -67,7 +67,7 @@ An engineer who enjoys solving real-world problems and learning new things.
 
 <!-- replace links/names with your real repos -->
 
-- 🔗 [polyglot-adapter](https://github.com/ih0r-d/polyglot-adapter)) — Universal Java adapter for GraalVM.
+- 🔗 [polyglot-adapter](https://github.com/ih0r-d/polyglot-adapter) — Universal Java adapter for GraalVM.
 - 🔗 [Raspberry-guides](https://github.com/ih0r-d/raspberry-pi-guides) — Collection of practical guides for setting up and configuring Raspberry Pi 5.
 
 ---
