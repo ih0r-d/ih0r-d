@@ -58,16 +58,10 @@ An engineer who enjoys solving real-world problems and learning new things.
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Fleet-informational?style=flat&logoColor=white&color=2bbc8a)
-
 </details>
 
 ---
-
 ## 📌 Featured projects
-
-<!-- replace links/names with your real repos -->
-
 - 🔗 [polyglot-adapter](https://github.com/ih0r-d/polyglot-adapter) — Universal Java adapter for GraalVM.
 - 🔗 [Raspberry-guides](https://github.com/ih0r-d/raspberry-pi-guides) — Collection of practical guides for setting up and configuring Raspberry Pi 5.
-
 ---
