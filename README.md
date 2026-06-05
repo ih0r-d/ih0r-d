@@ -1,67 +1,119 @@
 # 👋 Hi, I'm Ihor
 
-An engineer who enjoys solving real-world problems and learning new things.
+Product-oriented software engineer focused on backend systems, automation, and developer-friendly engineering workflows.
+
+I mostly work with **Java, Python, TypeScript, cloud-native infrastructure, messaging systems, identity platforms, and AI-assisted engineering tools**.
+
+I enjoy turning engineering problems into practical systems, clean workflows, and tools that are easier to build, operate, and maintain.
 
 ---
 
-## 🧾 About me
+## 🧭 Focus
 
-- Work mainly on **backend and DevOps engineering**
-- Build and maintain services using **Java, Python, and TypeScript**
-- Currently building a small **library for polyglot environments**
-- Occasionally contribute to **open-source projects**
-- Write technical articles on [Medium](https://medium.com/@your-username)
-- Enjoy building side projects, CLIs, and automation tooling in my free time
+* Backend systems
+* Product-oriented engineering
+* DevOps & infrastructure automation
+* Developer experience
+* Platform tooling
+* Distributed systems
+* Service architecture
+* Message-driven systems
+* Identity & access management
+* Hardware, Linux & Raspberry Pi experiments
+* Self-hosting and home lab setups
+* Polyglot runtime experiments
+* AI-assisted software engineering
+* Agent-to-agent engineering workflows
+
+---
+
+## 🛠 Tech stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" height="28" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="28" height="28" alt="Quarkus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" height="28" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" height="28" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="28" height="28" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="28" height="28" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="28" height="28" alt="Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="28" height="28" alt="RabbitMQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" height="28" alt="Linux"/>
+</p>
+
+**Languages**
+Java · Python · TypeScript · JavaScript · Shell
+
+**Backend systems**
+Spring Boot · Quarkus · FastAPI · Service design · API design · Modular systems · Runtime integration
+
+**Architecture & integration**
+Distributed systems · Event-driven architecture · Async processing · Message queues · Event streaming · Service boundaries
+
+**Messaging & data flow**
+Kafka · RabbitMQ · Apache NiFi · Workflow automation · System integration
+
+**Infrastructure & delivery**
+Linux · Docker · Kubernetes · Terraform · GitHub Actions · GitLab CI/CD · Deployment automation
+
+**Data & storage**
+PostgreSQL · MySQL · MariaDB · MSSQL · MongoDB · Firebase
+
+**Security & identity**
+Keycloak · Ory · OAuth2 · OpenID Connect · IAM · Authentication · Authorization
+
+**Frontend**
+React · Angular
+
+**AI & developer experience**
+Codex · Claude · AI-assisted coding · Agent workflows · A2A integrations · Developer automation
 
 ---
 
-<details>
-  <summary><b>🧠 Tech stack</b></summary>
+## 🚀 Featured projects
 
-<br>
+### [polyglot-platform](https://github.com/ih0r-d/polyglot-platform)
 
-**🖥 Operating systems**<br>
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+Experimental platform for exploring **GraalVM**, polyglot execution, and interoperability between multiple languages and runtimes.
 
-**💻 Languages**<br>
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
-**🚀 Frameworks & libraries**<br>
-![](https://img.shields.io/badge/Framework-Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Aiogram-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
-**🛠 Tools & platforms**<br>
-![](https://img.shields.io/badge/Tools-GitHubActions-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitLab%20CI%2FCD-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-NiFi-informational?style=flat&logo=apache-nifi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Keycloak-informational?style=flat&logo=keycloak&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Apache%20Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-DevOps-informational?style=flat&logo=dev.to&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-
-**🧰 IDEs**<br>
-![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-Fleet-informational?style=flat&logoColor=white&color=2bbc8a)
-</details>
+`Java` · `GraalVM` · `Polyglot` · `Runtime integration` · `Developer tooling`
 
 ---
-## 📌 Featured projects
-- 🔗 [polyglot-platform](https://github.com/ih0r-d/polyglot-platform) — Polyglot Platform for GraalVM
-- 🔗 [Raspberry-guides](https://github.com/ih0r-d/raspberry-pi-guides) — Collection of practical guides for setting up and configuring Raspberry Pi 5.
+
+### [raspberry-pi-guides](https://github.com/ih0r-d/raspberry-pi-guides)
+
+Practical guides and notes for working with **Raspberry Pi 5**, Linux, small hardware setups, self-hosting, and automation experiments.
+
+`Raspberry Pi` · `Linux` · `Hardware` · `Self-hosting` · `Automation` · `DevOps`
+
 ---
+
+## 📌 Currently exploring
+
+* Backend system design and service boundaries
+* Modular architecture and runtime integration
+* Message-driven systems with Kafka and RabbitMQ
+* DevOps labs with Docker, Kubernetes, and Terraform
+* Identity and access management patterns with Keycloak, Ory, OAuth2, and OIDC
+* Raspberry Pi, Linux, self-hosting, and small hardware automation projects
+* Polyglot runtime experiments with GraalVM
+* AI-assisted workflows for coding, refactoring, debugging, and documentation
+* Agent-to-agent workflows for engineering automation and developer tooling
+* Better developer experience for internal tools and automation
+
+---
+
+## 📫 Connect
+
+* GitHub: [ih0r-d](https://github.com/ih0r-d)
+* Medium: [ididyk](https://medium.com/@ididyk)
+
+---
+
+> Building practical systems, tools, and experiments — one commit at a time.
